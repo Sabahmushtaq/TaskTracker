@@ -4,7 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application in vs code .
+Directly download the zip file and run with vs code.
+Run on emulator or testing device.
 
 A few resources to get you started if this is your first Flutter project:
 
